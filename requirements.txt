@@ -1,0 +1,6 @@
+cryptography
+click
+requests
+pyopenssl
+dataclasses-json
+tls-client
